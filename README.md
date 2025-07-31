@@ -46,7 +46,7 @@ Data is fetched using a free football API or loaded from an Excel file.
 ## ✨ Author
 
 **Tridibesh Debnath**  
-Final-year B.Tech (CSE - Data Science) student
+B.Tech (CSE - Data Science) student
 
 [LinkedIn](https://www.linkedin.com/in/tridibesh-debnath) | [GitHub](https://github.com/TridibeshDebnath)
 
